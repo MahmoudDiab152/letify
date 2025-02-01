@@ -46,7 +46,7 @@ Litify/
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/mahmouddiab152/litify.git
+   git clone https://github.com/MahmoudDiab152/letify.git
    ```
 2. Open `index.html` in a web browser.
 3. Ensure an internet connection for external dependencies (Font Awesome, Swiper.js CDN).
