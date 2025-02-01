@@ -1,8 +1,8 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;500;600&display=swap");
 /* Start Variables */
 :root {
-  --green: #27ae60;
-  --dark-color: #219150;
+  --green: #20948b;
+  --dark-color: #1a7a6d ;
   --black: #444;
   --light-colr: #666;
   --border-hover: 0.1rem solid rgba(0, 0, 0, 0.1);
@@ -55,7 +55,7 @@ body {
 }
 .list .item {
   text-align: center;
-  background-color: #dce0e1;
+  background-color: #edf4f2;
   padding: 20px;
   box-shadow: var(--box-shadow);
   letter-spacing: 1px;
