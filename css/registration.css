@@ -3,8 +3,8 @@
 
 /* Start Variables */
 :root {
-  --green: #27ae60;
-  --dark-color: #219150;
+   --green: #20948b;
+  --dark-color: #1a7a6d;
   --black: #444;
   --light-colr: #666;
   --border-hover: 0.1rem solid rgba(0, 0, 0, 0.1);
