@@ -1,8 +1,8 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;500;600&display=swap");
 /* Start Variables */
 :root {
-  --green: #27ae60;
-  --dark-color: #219150;
+  --green: #20948b;
+  --dark-color: #1a7a6d;
   --black: #444;
   --light-colr: #666;
   --border-hover: 0.1rem solid rgba(0, 0, 0, 0.1);
@@ -152,17 +152,33 @@ section {
 .header .header-1 .search-form input {
   font-size: 1.6rem;
   padding: 0 1.2rem;
-  height: 100%;
+  height: 3.8rem;
   width: 100%;
   text-transform: none;
   color: var(--black);
+  background-color: #eee;
+  border-radius: 2px;
+  -webkit-border-radius: 2px;
+  -moz-border-radius: 2px;
+  -ms-border-radius: 2px;
+  -o-border-radius: 2px;
 }
+
 .header .header-1 .search-form label {
   font-size: 2.5rem;
   padding-right: 1.5rem;
   color: var(--black);
   cursor: pointer;
+  background-color: #eee;
+  height: 3.8rem;
+  line-height: 3.6rem;
+  border-radius: 2px;
+  -webkit-border-radius: 2px;
+  -moz-border-radius: 2px;
+  -ms-border-radius: 2px;
+  -o-border-radius: 2px;
 }
+
 .header .header-1 .search-form label:hover {
   color: var(--green);
 }
